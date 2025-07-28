@@ -1,3 +1,5 @@
+<img width="1024" height="798" alt="ChatGPT Image Jul 28, 2025, 11_58_17 AM" src="https://github.com/user-attachments/assets/215b6c14-28f9-4433-8f38-7c211f79f88e" />
+
 # 🛡️ Datacom Cybersecurity Internship Portfolio
 
 **Role:** Cybersecurity Consultant </br>
