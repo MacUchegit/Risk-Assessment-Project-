@@ -120,8 +120,8 @@ Using MITRE ATT\&CK, I linked APT34's behavior to the following:
 > While APT34 is a serious threat, the right precautions can greatly reduce our exposure. I recommend we review our current defenses and prioritize the steps above.
 > Please let me know if you’d like a short briefing session or written risk summary specific to your department.
 > 
-> Best regards,
-> **Onyekwere McDonald Uchenna**
+> Best regards,</br>
+> **Onyekwere McDonald Uchenna** </br>
 > Cybersecurity Consultant
 
 ---
@@ -182,6 +182,10 @@ The aim was to determine the level of risk associated with potential cybersecuri
 | Moderate        | Noticeable disruption – service outages, moderate financial penalties |
 | Minor           | Minor disruption – some system downtime, no significant cost          |
 | Insignificant   | Little to no impact – minor inconvenience                             |
+
+### Risk Matrix Table
+
+<img width="1898" height="423" alt="risk matrix" src="https://github.com/user-attachments/assets/ba6d3163-d9d3-4387-bec4-034132e66e5c" />
 
 ---
 
